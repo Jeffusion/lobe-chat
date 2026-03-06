@@ -52,7 +52,6 @@ export class Manifest {
       immutable: 'true',
       max_age: MAX_AGE,
       name,
-      orientation: 'portrait',
       related_applications: [
         {
           platform: 'webapp',
